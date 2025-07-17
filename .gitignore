@@ -138,7 +138,6 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-=======
 pnpm-debug.log*
 lerna-debug.log*
 
@@ -157,4 +156,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.env f6b6f47 (agri-poa web application)
+.env
